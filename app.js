@@ -156,7 +156,7 @@
         test('getLogin');
         getLogin();
         test('logout');
-        logout();
+        //logout();
         test('setIframe');
         setIframe();
         test('fixHistory');
